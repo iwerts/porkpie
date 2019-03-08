@@ -1,0 +1,6370 @@
+[
+    {
+      "faction": "first-order",
+      "ship": "tie-fo-fighter",
+      "expansion": "SWZ26",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "midnight",
+              "upgrades": {
+                "modification": [
+                  "afterburners"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "static",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "omegasquadronace",
+              "upgrades": {
+                "talent": [
+                  "elusive",
+                  "fanatical"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "first-order",
+      "ship": "tie-fo-fighter",
+      "expansion": "SWZ26",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "scorch",
+              "upgrades": {
+                "talent": [
+                  "fanatical"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "longshot",
+              "upgrades": {
+                "talent": [
+                  "elusive",
+                  "predator"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "zetasquadronpilot",
+              "upgrades": {
+                "tech": [
+                  "advancedoptics"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "first-order",
+      "ship": "tie-fo-fighter",
+      "expansion": "SWZ26",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "muse",
+              "upgrades": {
+                "talent": [
+                  "squadleader"
+                ],
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "null",
+              "upgrades": {
+                "talent": [
+                  "swarmtactics"
+                ],
+                "modification": [
+                  "afterburners",
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "epsilonsquadroncadet",
+              "upgrades": {
+                "tech": [
+                  "targetingsynchronizer"
+                ],
+                "modification": [
+                  "afterburners"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "first-order",
+      "ship": "tie-fo-fighter",
+      "expansion": "SWZ26",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "commandermalarus",
+              "upgrades": {
+                "tech": [
+                  "advancedoptics"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "tn3465",
+              "upgrades": {
+                "tech": [
+                  "targetingsynchronizer"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 1,
+          "pilots": [
+            {
+              "id": "lieutenantrivas"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "first-order",
+      "ship": "tie-sf-fighter",
+      "expansion": "SWZ18",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "quickdraw",
+              "upgrades": {
+                "talent": [
+                  "juke"
+                ],
+                "sensor": [
+                  "collisiondetector"
+                ],
+                "gunner": [
+                  "hotshotgunner"
+                ],
+                "modification": [
+                  "afterburners",
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "zetasquadronsurvivor",
+              "upgrades": {
+                "tech": [
+                  "patternanalyzer"
+                ],
+                "missile": [
+                  "ionmissiles"
+                ],
+                "gunner": [
+                  "specialforcesgunner"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "first-order",
+      "ship": "tie-sf-fighter",
+      "expansion": "SWZ18",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "backdraft",
+              "upgrades": {
+                "tech": [
+                  "patternanalyzer"
+                ],
+                "missile": [
+                  "ionmissiles"
+                ],
+                "sensor": [
+                  "collisiondetector"
+                ],
+                "gunner": [
+                  "specialforcesgunner"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "omegasquadronexpert",
+              "upgrades": {
+                "talent": [
+                  "juke"
+                ],
+                "gunner": [
+                  "specialforcesgunner"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "first-order",
+      "ship": "tie-vn-silencer",
+      "expansion": "SWZ18",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "kyloren",
+              "upgrades": {
+                "talent": [
+                  "hate",
+                  "predictiveshot"
+                ],
+                "tech": [
+                  "primedthrusters"
+                ],
+                "torpedo": [
+                  "advprotontorpedoes"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "recoil",
+              "upgrades": {
+                "talent": [
+                  "predator"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "firstordertestpilot",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "first-order",
+      "ship": "tie-vn-silencer",
+      "expansion": "SWZ18",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "blackout",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "modification": [
+                  "afterburners"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "avenger",
+              "upgrades": {
+                "tech": [
+                  "primedthrusters"
+                ],
+                "torpedo": [
+                  "advprotontorpedoes"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "sienarjaemusengineer"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "first-order",
+      "ship": "upsilon-class-command-shuttle",
+      "expansion": "SWZ18",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "lieutenanttavson",
+              "upgrades": {
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "cannon": [
+                  "ioncannon"
+                ],
+                "crew": [
+                  "kyloren",
+                  "supremeleadersnoke"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "lieutenantdormitz",
+              "upgrades": {
+                "talent": [
+                  "biohexacryptcodes",
+                  "hyperspacetrackingdata"
+                ],
+                "cannon": [
+                  "tractorbeam"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "starkillerbasepilot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "first-order",
+      "ship": "upsilon-class-command-shuttle",
+      "expansion": "SWZ18",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "majorstridan",
+              "upgrades": {
+                "talent": [
+                  "biohexacryptcodes",
+                  "patternanalyzer"
+                ],
+                "crew": [
+                  "captainphasma",
+                  "generalhux"
+                ],
+                "cannon": [
+                  "tractorbeam"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "captaincardinal",
+              "upgrades": {
+                "crew": [
+                  "pettyofficerthanisson"
+                ],
+                "cannon": [
+                  "ioncannon"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "pettyofficerthanisson",
+              "upgrades": {
+                "crew": [
+                  "captainphasma"
+                ],
+                "modification": [
+                  "tacticalscrambler"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "resistance",
+      "ship": "rz-2-a-wing",
+      "expansion": "SWZ22",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "lulolampar",
+              "upgrades": {
+                "tech": [
+                  "primedthrusters"
+                ],
+                "missile": [
+                  "homingmissiles"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "greersonnel",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "modification": [
+                  "afterburners"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "greensquadronexpert",
+              "upgrades": {
+                "talent": [
+                  "heroic"
+                ],
+                "tech": [
+                  "primedthrusters"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "resistance",
+      "ship": "rz-2-a-wing",
+      "expansion": "SWZ22",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "tallissanlintra",
+              "upgrades": {
+                "talent": [
+                  "predator"
+                ],
+                "tech": [
+                  "ferrospherepaint"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "zaribangel",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "missile": [
+                  "protonrockets"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "bluesquadronrecruit",
+              "upgrades": {
+                "tech": [
+                  "primedthrusters"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ],
+                "missile": [
+                  "homingmissiles"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "resistance",
+      "ship": "t-70-x-wing",
+      "expansion": "SWZ25",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "poedameron",
+              "upgrades": {
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "astromech": [
+                  "bb8"
+                ],
+                "configuration": [
+                  "integratedsfoils"
+                ],
+                "modification": [
+                  "afterburners"
+                ],
+                "title": [
+                  "blackone"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "jessikapava",
+              "upgrades": {
+                "astromech": [
+                  "r5astromech"
+                ],
+                "configuration": [
+                  "integratedsfoils"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "blacksquadronace-t70xwing",
+              "upgrades": {
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "astromech": [
+                  "m9g8"
+                ],
+                "configuration": [
+                  "integratedsfoils"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "resistance",
+      "ship": "t-70-x-wing",
+      "expansion": "SWZ25",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "elloasty",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "modification": [
+                  "afterburners"
+                ],
+                "configuration": [
+                  "integratedsfoils"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "jophseastriker",
+              "upgrades": {
+                "astromech": [
+                  "r2astromech"
+                ],
+                "configuration": [
+                  "integratedsfoils"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "jaycristubbs"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "resistance",
+      "ship": "t-70-x-wing",
+      "expansion": "SWZ25",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "niennunb",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "modification": [
+                  "afterburners"
+                ],
+                "configuration": [
+                  "integratedsfoils"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "lieutenantbastian",
+              "upgrades": {
+                "astromech": [
+                  "r3astromech"
+                ],
+                "configuration": [
+                  "integratedsfoils"
+                ],
+                "tech": [
+                  "targetingsynchronizer"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "redsquadronexpert"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "resistance",
+      "ship": "t-70-x-wing",
+      "expansion": "SWZ25",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "temminwexley",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "configuration": [
+                  "integratedsfoils"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "karekun",
+              "upgrades": {
+                "talent": [
+                  "predator"
+                ],
+                "configuration": [
+                  "integratedsfoils"
+                ],
+                "modification": [
+                  "afterburners"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "bluesquadronrookie",
+              "upgrades": {
+                "astromech": [
+                  "bbastromech"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "resistance",
+      "ship": "mg-100-starfortress-sf-17",
+      "expansion": "SWZ19",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "finchdallow",
+              "upgrades": {
+                "tech": [
+                  "advancedoptics"
+                ],
+                "gunner": [
+                  "paigetico"
+                ],
+                "modification": [
+                  "hullupgrade",
+                  "ablativeplating"
+                ],
+                "device": [
+                  "protonbombs"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "cat",
+              "upgrades": {
+                "gunner": [
+                  "skilledbombardier"
+                ],
+                "modification": [
+                  "electronicbaffle"
+                ],
+                "device": [
+                  "connernets"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "cobaltsquadronbomber",
+              "upgrades": {
+                "sensor": [
+                  "trajectorysimulator"
+                ],
+                "modification": [
+                  "ablativeplating"
+                ],
+                "device": [
+                  "protonbombs"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "resistance",
+      "ship": "mg-100-starfortress-sf-17",
+      "expansion": "SWZ19",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "edonkappehl",
+              "upgrades": {
+                "tech": [
+                  "patternanalyzer"
+                ],
+                "gunner": [
+                  "skilledbombardier"
+                ],
+                "crew": [
+                  "seasonednavigator"
+                ],
+                "device": [
+                  "protonbombs",
+                  "connernets"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 4,
+          "pilots": [{
+            "id": "vennie",
+            "upgrades": {
+              "tech": [
+                "advancedoptics"
+              ],
+              "gunner": [
+                "finn"
+              ],
+              "crew": [
+                "rosetico"
+              ],
+              "modification": [
+                "shieldupgrade"
+              ]
+            }
+          }]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "benteene",
+              "upgrades": {
+                "device": [
+                  "protonbombs",
+                  "connernets"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "resistance",
+      "ship": "scavenged-yt-1300",
+      "expansion": "SWZ19",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "hansolo-scavengedyt1300",
+              "upgrades": {
+                "crew": [
+                  "chewbacca-crew-swz19"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 5,
+          "pilots": [
+            {
+              "id": "rey",
+              "upgrades": {
+                "gunner": [
+                  "finn"
+                ],
+                "astromech": [
+                  "bb8"
+                ],
+                "illicit": [
+                  "inertialdampeners"
+                ],
+                "modification": [
+                  "engineupgrade"
+                ],
+                "title": [
+                  "reysmillenniumfalcon"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "resistance",
+      "ship": "scavenged-yt-1300",
+      "expansion": "SWZ19",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "chewbacca-scavengedyt1300",
+              "upgrades": {
+                "gunner": [
+                  "rey-gunner"
+                ],
+                "modification": [
+                  "engineupgrade"
+                ],
+                "title": [
+                  "reysmillenniumfalcon"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "resistancesympathizer",
+              "upgrades": {
+                "crew": [
+                  "chewbacca-crew-swz19",
+                  "hansolo-crew",
+                  "c3po-crew"
+                ],
+                "talent": [
+                  "debrisgambit"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-ln-fighter",
+      "expansion": "SWZ01",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "valenrudor",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "blacksquadronace",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "modification": [
+                  "afterburners",
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 1,
+          "pilots": [
+            {
+              "id": "academypilot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-ln-fighter",
+      "expansion": "SWZ01",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "idenversio",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "nightbeast",
+              "upgrades": {
+                "talent": [
+                  "predator"
+                ],
+                "modification": [
+                  "hullupgrade",
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 1,
+          "pilots": [
+            {
+              "id": "obsidiansquadronpilot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-ln-fighter",
+      "expansion": "SWZ14",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "scourgeskutu",
+              "upgrades": {
+                "talent": [
+                  "predator"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "wampa",
+              "upgrades": {
+                "talent": [
+                  "crackshot"
+                ],
+                "modification": [
+                  "hullupgrade",
+                  "stealthdevice"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "blacksquadronace",
+              "upgrades": {
+                "talent": [
+                  "crackshot"
+                ],
+                "modification": [
+                  "afterburners",
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-ln-fighter",
+      "expansion": "SWZ14",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "gideonhask",
+              "upgrades": {
+                "talent": [
+                  "crackshot"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "delmeeko",
+              "upgrades": {
+                "talent": [
+                  "juke"
+                ],
+                "modification": [
+                  "stealthdevice"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 1,
+          "pilots": [
+            {
+              "id": "obsidiansquadronpilot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-ln-fighter",
+      "expansion": "SWZ14",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "howlrunner",
+              "upgrades": {
+                "talent": [
+                  "juke"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "seynmarana",
+              "upgrades": {
+                "talent": [
+                  "marksmanship"
+                ],
+                "modification": [
+                  "afterburners"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "blacksquadronace",
+              "upgrades": {
+                "talent": [
+                  "juke"
+                ],
+                "modification": [
+                  "stealthdevice"
+                ]
+              }
+            },
+            {
+              "id": "blacksquadronace",
+              "upgrades": {
+                "talent": [
+                  "juke"
+                ],
+                "modification": [
+                  "stealthdevice"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-ln-fighter",
+      "expansion": "SWZ14",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "obsidiansquadronpilot",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            },
+            {
+              "id": "obsidiansquadronpilot",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "academypilot"
+            },
+            {
+              "id": "academypilot"
+            }
+          ]
+        },
+        {
+          "threat": 1,
+          "pilots": [
+            {
+              "id": "academypilot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-advanced-x1",
+      "expansion": "SWZ15",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "darthvader",
+              "upgrades": {
+                "force-power": [
+                  "supernaturalreflexes"
+                ],
+                "missile": [
+                  "clustermissiles"
+                ],
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "modification": [
+                  "afterburners",
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "maarekstele",
+              "upgrades": {
+                "talent": [
+                  "ruthless"
+                ],
+                "missile": [
+                  "clustermissiles"
+                ],
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "stormsquadronace",
+              "upgrades": {
+                "sensor": [
+                  "firecontrolsystem"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-advanced-x1",
+      "expansion": "SWZ15",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "vedfoslo",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "missile": [
+                  "clustermissiles"
+                ],
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "zertikstrom",
+              "upgrades": {
+                "talent": [
+                  "squadleader"
+                ],
+                "missile": [
+                  "clustermissiles"
+                ],
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "tempestsquadronpilot",
+              "upgrades": {
+                "missile": [
+                  "clustermissiles"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "lambda-class-t-4a-shuttle",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "coloneljendon",
+              "upgrades": {
+                "title": [
+                  "st321"
+                ],
+                "cannon": [
+                  "ioncannon"
+                ],
+                "sensor": [
+                  "collisiondetector"
+                ],
+                "crew": [
+                  "darthvader",
+                  "freelanceslicer"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "captainkagi",
+              "upgrades": {
+                "cannon": [
+                  "tractorbeam"
+                ],
+                "sensor": [
+                  "collisiondetector"
+                ],
+                "crew": [
+                  "emperorpalpatine"
+                ],
+                "modification": [
+                  "shieldupgrade",
+                  "staticdischargevanes"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "lambda-class-t-4a-shuttle",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "lieutenantsai",
+              "upgrades": {
+                "cannon": [
+                  "jammingbeam"
+                ],
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "crew": [
+                  "cienaree",
+                  "gnkgonkdroid"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "omicrongrouppilot",
+              "upgrades": {
+                "cannon": [
+                  "jammingbeam"
+                ],
+                "crew": [
+                  "admiralsloane"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-ag-aggressor",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "lieutenantkestal",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "missile": [
+                  "barragerockets"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "onyxsquadronscout",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "missile": [
+                  "protonrockets"
+                ],
+                "turret": [
+                  "dorsalturret"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-ag-aggressor",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "doubleedge",
+              "upgrades": {
+                "turret": [
+                  "ioncannonturret"
+                ],
+                "missile": [
+                  "concussionmissiles"
+                ],
+                "gunner": [
+                  "hotshotgunner"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "sienarspecialist",
+              "upgrades": {
+                "turret": [
+                  "ioncannonturret"
+                ],
+                "missile": [
+                  "homingmissiles"
+                ],
+                "gunner": [
+                  "veteranturretgunner"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-ph-phantom",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "whisper",
+              "upgrades": {
+                "talent": [
+                  "juke"
+                ],
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "crew": [
+                  "agentkallus"
+                ],
+                "modification": [
+                  "stealthdevice"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "sigmasquadronace",
+              "upgrades": {
+                "talent": [
+                  "predator"
+                ],
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "crew": [
+                  "grandinquisitor"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-ph-phantom",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "echo",
+              "upgrades": {
+                "talent": [
+                  "lonewolf"
+                ],
+                "sensor": [
+                  "collisiondetector"
+                ],
+                "crew": [
+                  "perceptivecopilot"
+                ],
+                "modification": [
+                  "stealthdevice"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "imdaartestpilot",
+              "upgrades": {
+                "crew": [
+                  "moffjerjerrod"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-sk-striker",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "duchess",
+              "upgrades": {
+                "talent": [
+                  "trickshot"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "blacksquadronscout",
+              "upgrades": {
+                "gunner": [
+                  "skilledbombardier"
+                ],
+                "device": [
+                  "proximitymines"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-sk-striker",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "countdown",
+              "upgrades": {
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "planetarysentinel",
+              "upgrades": {
+                "device": [
+                  "connernets"
+                ]
+              }
+            },
+            {
+              "id": "planetarysentinel",
+              "upgrades": {
+                "device": [
+                  "connernets"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-sk-striker",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "puresabacc",
+              "upgrades": {
+                "modification": [
+                  "stealthdevice"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "blacksquadronscout",
+              "upgrades": {
+                "gunner": [
+                  "skilledbombardier"
+                ],
+                "device": [
+                  "proximitymines"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-d-defender",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "countessryad",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "modification": [
+                  "afterburners"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "onyxsquadronace"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-d-defender",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "rexlerbrath",
+              "upgrades": {
+                "talent": [
+                  "juke"
+                ],
+                "sensor": [
+                  "collisiondetector"
+                ],
+                "missile": [
+                  "clustermissiles"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "deltasquadronpilot",
+              "upgrades": {
+                "cannon": [
+                  "ioncannon"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-d-defender",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "colonelvessery",
+              "upgrades": {
+                "talent": [
+                  "juke"
+                ],
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "missile": [
+                  "clustermissiles"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "onyxsquadronace",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "missile": [
+                  "protonrockets"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-sa-bomber",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "tomaxbren",
+              "upgrades": {
+                "talent": [
+                  "crackshot"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "device": [
+                  "protonbombs"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "deathfire",
+              "upgrades": {
+                "missile": [
+                  "clustermissiles"
+                ],
+                "gunner": [
+                  "skilledbombardier"
+                ],
+                "device": [
+                  "seismiccharges",
+                  "proximitymines"
+                ],
+                "modification": [
+                  "electronicbaffle"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-sa-bomber",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "majorrhymer",
+              "upgrades": {
+                "missile": [
+                  "clustermissiles"
+                ],
+                "talent": [
+                  "intimidation"
+                ],
+                "torpedo": [
+                  "advprotontorpedoes"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "scimitarsquadronpilot",
+              "upgrades": {
+                "missile": [
+                  "ionmissiles"
+                ],
+                "device": [
+                  "protonbombs"
+                ]
+              }
+            },
+            {
+              "id": "scimitarsquadronpilot",
+              "upgrades": {
+                "missile": [
+                  "ionmissiles"
+                ],
+                "device": [
+                  "protonbombs"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-sa-bomber",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "captainjonus",
+              "upgrades": {
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "gammasquadronace",
+              "upgrades": {
+                "missile": [
+                  "concussionmissiles"
+                ],
+                "gunner": [
+                  "skilledbombardier"
+                ],
+                "device": [
+                  "bombletgenerator"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-advanced-v1",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "grandinquisitor",
+              "upgrades": {
+                "force-power": [
+                  "supernaturalreflexes"
+                ],
+                "missile": [
+                  "concussionmissiles"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "inquisitor",
+              "upgrades": {
+                "force-power": [
+                  "instinctiveaim"
+                ],
+                "missile": [
+                  "clustermissiles"
+                ],
+                "modification": [
+                  "munitionsfailsafe"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-advanced-v1",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "seventhsister",
+              "upgrades": {
+                "missile": [
+                  "homingmissiles"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "baronoftheempire",
+              "upgrades": {
+                "missile": [
+                  "protonrockets"
+                ],
+                "talent": [
+                  "crackshot"
+                ],
+                "modification": [
+                  "stealthdevice"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-interceptor",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "soontirfel",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "modification": [
+                  "afterburners",
+                  "stealthdevice"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "alphasquadronpilot",
+              "upgrades": {
+                "modification": [
+                  "ablativeplating"
+                ]
+              }
+            },
+            {
+              "id": "alphasquadronpilot",
+              "upgrades": {
+                "modification": [
+                  "ablativeplating"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-interceptor",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "turrphennir",
+              "upgrades": {
+                "talent": [
+                  "daredevil"
+                ],
+                "modification": [
+                  "electronicbaffle"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "sabersquadronace",
+              "upgrades": {
+                "talent": [
+                  "predator"
+                ],
+                "modification": [
+                  "stealthdevice"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "alpha-class-star-wing",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "lieutenantkarsabi",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "cannon": [
+                  "heavylasercannon"
+                ],
+                "configuration": [
+                  "xg1assaultconfiguration"
+                ],
+                "modification": [
+                  "advancedslam"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "nusquadronpilot",
+              "upgrades": {
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "configuration": [
+                  "os1arsenalloadout"
+                ],
+                "modification": [
+                  "advancedslam"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "alpha-class-star-wing",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "majorvynder",
+              "upgrades": {
+                "missile": [
+                  "barragerockets"
+                ],
+                "talent": [
+                  "saturationsalvo"
+                ],
+                "configuration": [
+                  "os1arsenalloadout"
+                ],
+                "modification": [
+                  "advancedslam"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "rhosquadronpilot",
+              "upgrades": {
+                "missile": [
+                  "homingmissiles"
+                ],
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "cannon": [
+                  "ioncannon"
+                ],
+                "configuration": [
+                  "xg1assaultconfiguration"
+                ],
+                "modification": [
+                  "advancedslam"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-ca-punisher",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "deathrain",
+              "upgrades": {
+                "missile": [
+                  "homingmissiles"
+                ],
+                "sensor": [
+                  "trajectorysimulator"
+                ],
+                "device": [
+                  "bombletgenerator"
+                ],
+                "modification": [
+                  "ablativeplating"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "cutlasssquadronpilot",
+              "upgrades": {
+                "missile": [
+                  "ionmissiles"
+                ],
+                "sensor": [
+                  "trajectorysimulator"
+                ],
+                "gunner": [
+                  "skilledbombardier"
+                ],
+                "device": [
+                  "protonbombs"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-ca-punisher",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "redline",
+              "upgrades": {
+                "missile": [
+                  "clustermissiles"
+                ],
+                "talent": [
+                  "debrisgambit"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "cutlasssquadronpilot",
+              "upgrades": {
+                "missile": [
+                  "protonrockets"
+                ],
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "device": [
+                  "connernets"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "vt-49-decimator",
+      "expansion": "SWZ07",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "captainoicunn",
+              "upgrades": {
+                "talent": [
+                  "intimidation"
+                ],
+                "crew": [
+                  "grandmofftarkin"
+                ],
+                "title": [
+                  "dauntless"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "rearadmiralchiraneau",
+              "upgrades": {
+                "talent": [
+                  "swarmtactics"
+                ],
+                "crew": [
+                  "ministertua",
+                  "tacticalofficer"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "patrolleader",
+              "upgrades": {
+                "gunner": [
+                  "fifthbrother"
+                ],
+                "crew": [
+                  "informant",
+                  "seventhsister"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-reaper",
+      "expansion": "SWZ03",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "vizier",
+              "upgrades": {
+                "crew": [
+                  "directorkrennic"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "scarifbasepilot",
+              "upgrades": {
+                "modification": [
+                  "shieldupgrade"
+                ],
+                "crew": [
+                  "deathtroopers"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "galactic-empire",
+      "ship": "tie-reaper",
+      "expansion": "SWZ03",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "majorvermeil",
+              "upgrades": {
+                "talent": [
+                  "swarmtactics"
+                ],
+                "crew": [
+                  "tacticalofficer"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "captainferoph",
+              "upgrades": {
+                "talent": [
+                  "swarmtactics"
+                ],
+                "crew": [
+                  "isbslicer"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "t-65-x-wing",
+      "expansion": "SWZ01",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "lukeskywalker",
+              "upgrades": {
+                "force-power": [
+                  "instinctiveaim"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "astromech": [
+                  "r2d2"
+                ],
+                "configuration": [
+                  "servomotorsfoils"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "redsquadronveteran",
+              "upgrades": {
+                "talent": [
+                  "predator"
+                ],
+                "astromech": [
+                  "r5astromech"
+                ],
+                "configuration": [
+                  "servomotorsfoils"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "t-65-x-wing",
+      "expansion": "SWZ01",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "jekporkins",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "modification": [
+                  "afterburners",
+                  "hullupgrade"
+                ],
+                "astromech": [
+                  "r5d8"
+                ],
+                "configuration": [
+                  "servomotorsfoils"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "bluesquadronescort",
+              "upgrades": {
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "astromech": [
+                  "r3astromech"
+                ],
+                "configuration": [
+                  "servomotorsfoils"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "t-65-x-wing",
+      "expansion": "SWZ12",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "wedgeantilles",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ],
+                "astromech": [
+                  "r4astromech"
+                ],
+                "configuration": [
+                  "servomotorsfoils"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "biggsdarklighter",
+              "upgrades": {
+                "talent": [
+                  "selfless"
+                ],
+                "configuration": [
+                  "servomotorsfoils"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "t-65-x-wing",
+      "expansion": "SWZ12",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "thanekyrell",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "torpedo": [
+                  "iontorpedoes"
+                ],
+                "modification": [
+                  "afterburners",
+                  "hullupgrade"
+                ],
+                "astromech": [
+                  "r2astromech"
+                ],
+                "configuration": [
+                  "servomotorsfoils"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "garvendreis-t65xwing",
+              "upgrades": {
+                "configuration": [
+                  "servomotorsfoils"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "btl-a4-y-wing",
+      "expansion": "SWZ13",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "norrawexley-btla4ywing",
+              "upgrades": {
+                "talent": [
+                  "experthandling"
+                ],
+                "turret": [
+                  "ioncannonturret"
+                ],
+                "astromech": [
+                  "r3astromech"
+                ],
+                "gunner": [
+                  "veteranturretgunner"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "evaanverlaine",
+              "upgrades": {
+                "talent": [
+                  "experthandling"
+                ],
+                "turret": [
+                  "ioncannonturret"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "goldsquadronveteran",
+              "upgrades": {
+                "talent": [
+                  "experthandling"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "astromech": [
+                  "r3astromech"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "btl-a4-y-wing",
+      "expansion": "SWZ13",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "hortonsalm",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "turret": [
+                  "ioncannonturret"
+                ],
+                "astromech": [
+                  "r5astromech"
+                ],
+                "gunner": [
+                  "veteranturretgunner"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "dutchvander",
+              "upgrades": {
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "astromech": [
+                  "r3astromech"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "graysquadronbomber",
+              "upgrades": {
+                "turret": [
+                  "ioncannonturret"
+                ],
+                "device": [
+                  "protonbombs"
+                ],
+                "astromech": [
+                  "r5astromech"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "btl-s8-k-wing",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "esegetuketu",
+              "upgrades": {
+                "sensor": [
+                  "trajectorysimulator"
+                ],
+                "missile": [
+                  "ionmissiles"
+                ],
+                "device": [
+                  "protonbombs",
+                  "connernets"
+                ],
+                "modification": [
+                  "advancedslam"
+                ],
+                "crew": [
+                  "perceptivecopilot"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "mirandadoni",
+              "upgrades": {
+                "device": [
+                  "protonbombs"
+                ],
+                "modification": [
+                  "advancedslam"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "wardensquadronpilot",
+              "upgrades": {
+                "missile": [
+                  "barragerockets"
+                ],
+                "device": [
+                  "bombletgenerator"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "a-sf-01-b-wing",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "braylenstramm",
+              "upgrades": {
+                "talent": [
+                  "trickshot"
+                ],
+                "cannon": [
+                  "jammingbeam"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "bladesquadronveteran",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "cannon": [
+                  "tractorbeam"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "a-sf-01-b-wing",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "tennumb",
+              "upgrades": {
+                "talent": [
+                  "squadleader"
+                ],
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "cannon": [
+                  "heavylasercannon"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "bluesquadronpilot",
+              "upgrades": {
+                "sensor": [
+                  "advancedsensors"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "arc-170-starfighter",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "norrawexley",
+              "upgrades": {
+                "talent": [
+                  "experthandling"
+                ],
+                "crew": [
+                  "seasonednavigator"
+                ],
+                "gunner": [
+                  "veterantailgunner"
+                ],
+                "astromech": [
+                  "r3astromech"
+                ],
+                "modification": [
+                  "ablativeplating",
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "garvendreis",
+              "upgrades": {
+                "talent": [
+                  "experthandling"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "crew": [
+                  "perceptivecopilot"
+                ],
+                "gunner": [
+                  "veterantailgunner"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "arc-170-starfighter",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "sharabey",
+              "upgrades": {
+                "talent": [
+                  "experthandling"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "crew": [
+                  "perceptivecopilot"
+                ],
+                "astromech": [
+                  "r3astromech"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "ibtisam",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "auzituck-gunship",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "wullffwarro",
+              "upgrades": {
+                "talent": [
+                  "selfless"
+                ],
+                "crew": [
+                  "gnkgonkdroid",
+                  "novicetechnician"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "lowhhrick"
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "kashyyykdefender",
+              "upgrades": {
+                "crew": [
+                  "novicetechnician"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "e-wing",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "corranhorn",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "modification": [
+                  "afterburners"
+                ],
+                "astromech": [
+                  "r2astromech"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "roguesquadronescort",
+              "upgrades": {
+                "talent": [
+                  "predator"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "sensor": [
+                  "collisiondetector"
+                ],
+                "astromech": [
+                  "r3astromech"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "e-wing",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "gavindarklighter",
+              "upgrades": {
+                "talent": [
+                  "crackshot"
+                ],
+                "torpedo": [
+                  "iontorpedoes"
+                ],
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "astromech": [
+                  "r4astromech"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "knavesquadronescort"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "hwk-290-light-freighter",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "janors",
+              "upgrades": {
+                "talent": [
+                  "trickshot"
+                ],
+                "crew": [
+                  "perceptivecopilot"
+                ],
+                "device": [
+                  "seismiccharges"
+                ],
+                "illicit": [
+                  "cloakingdevice"
+                ],
+                "modification": [
+                  "engineupgrade"
+                ],
+                "title": [
+                  "moldycrow"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "roarkgarnet",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "device": [
+                  "seismiccharges"
+                ],
+                "modification": [
+                  "hullupgrade",
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "hwk-290-light-freighter",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "kylekatarn",
+              "upgrades": {
+                "title": [
+                  "moldycrow"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "rebelscout",
+              "upgrades": {
+                "crew": [
+                  "sabinewren"
+                ],
+                "device": [
+                  "seismiccharges",
+                  "protonbombs"
+                ],
+                "modification": [
+                  "engineupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "rz-1-a-wing",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "arvelcrynyd",
+              "upgrades": {
+                "missile": [
+                  "protonrockets"
+                ],
+                "talent": [
+                  "intimidation"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "greensquadronpilot",
+              "upgrades": {
+                "missile": [
+                  "concussionmissiles"
+                ],
+                "talent": [
+                  "daredevil"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "rz-1-a-wing",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "jakefarrell",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "missile": [
+                  "clustermissiles"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "phoenixsquadronpilot",
+              "upgrades": {
+                "missile": [
+                  "protonrockets"
+                ]
+              }
+            },
+            {
+              "id": "phoenixsquadronpilot",
+              "upgrades": {
+                "missile": [
+                  "protonrockets"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "sheathipede-class-shuttle",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "fennrau-sheathipedeclassshuttle",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "crew": [
+                  "seasonednavigator"
+                ],
+                "astromech": [
+                  "r4astromech"
+                ],
+                "title": [
+                  "phantom"
+                ],
+                "modification": [
+                  "stealthdevice"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "ezrabridger-sheathipedeclassshuttle",
+              "upgrades": {
+                "force-power": [
+                  "heightenedperception"
+                ],
+                "astromech": [
+                  "chopper"
+                ],
+                "title": [
+                  "phantom"
+                ],
+                "modification": [
+                  "afterburners"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "tie-ln-fighter",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "captainrex",
+              "upgrades": {
+                "talent": [
+                  "elusive",
+                  "juke"
+                ],
+                "modification": [
+                  "stealthdevice"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "sabinewren-tielnfighter",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "device": [
+                  "connernets"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "tie-ln-fighter",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "ezrabridger-tielnfighter",
+              "upgrades": {
+                "force-power": [
+                  "supernaturalreflexes"
+                ],
+                "crew": [
+                  "zeborrelios"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 1,
+          "pilots": [
+            {
+              "id": "zeborrelios-tielnfighter"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "ut-60d-u-wing",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "cassianandor",
+              "upgrades": {
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "crew": [
+                  "jynerso",
+                  "bazemalbus"
+                ],
+                "configuration": [
+                  "pivotwing"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "bodhirook",
+              "upgrades": {
+                "crew": [
+                  "cassianandor"
+                ],
+                "configuration": [
+                  "pivotwing"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "ut-60d-u-wing",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "hefftobber",
+              "upgrades": {
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "crew": [
+                  "perceptivecopilot"
+                ],
+                "gunner": [
+                  "bistan"
+                ],
+                "turret": [
+                  "ioncannonturret"
+                ],
+                "configuration": [
+                  "pivotwing"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "bluesquadronscout",
+              "upgrades": {
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "crew": [
+                  "tacticalofficer"
+                ],
+                "configuration": [
+                  "pivotwing"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "modified-yt-1300-light-freighter",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "hansolo-modifiedyt1300lightfreighter",
+              "upgrades": {
+                "talent": [
+                  "lonewolf"
+                ],
+                "crew": [
+                  "chewbacca"
+                ],
+                "title": [
+                  "millenniumfalcon"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 6,
+          "pilots": [
+            {
+              "id": "chewbacca",
+              "upgrades": {
+                "talent": [
+                  "predator"
+                ],
+                "crew": [
+                  "leiaorgana",
+                  "c3po-crew",
+                  "r2d2-crew"
+                ],
+                "gunner": [
+                  "hansolo",
+                  "lukeskywalker"
+                ],
+                "modification": [
+                  "engineupgrade"
+                ],
+                "title": [
+                  "millenniumfalcon"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "modified-yt-1300-light-freighter",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 5,
+          "pilots": [
+            {
+              "id": "landocalrissian-modifiedyt1300lightfreighter",
+              "upgrades": {
+                "talent": [
+                  "swarmtactics"
+                ],
+                "missile": [
+                  "concussionmissiles"
+                ],
+                "crew": [
+                  "niennunb"
+                ],
+                "modification": [
+                  "engineupgrade"
+                ],
+                "title": [
+                  "millenniumfalcon"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "outerrimsmuggler",
+              "upgrades": {
+                "missile": [
+                  "homingmissiles"
+                ],
+                "crew": [
+                  "novicetechnician"
+                ],
+                "gunner": [
+                  "veteranturretgunner"
+                ],
+                "modification": [
+                  "staticdischargevanes"
+                ],
+                "illicit": [
+                  "feedbackarray"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "z-95-af4-headhunter",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "airencracken",
+              "upgrades": {
+                "missile": [
+                  "clustermissiles"
+                ],
+                "talent": [
+                  "swarmtactics"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 1,
+          "pilots": [
+            {
+              "id": "banditsquadronpilot"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "z-95-af4-headhunter",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "lieutenantblount",
+              "upgrades": {
+                "missile": [
+                  "protonrockets"
+                ],
+                "talent": [
+                  "outmaneuver"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 1,
+          "pilots": [
+            {
+              "id": "talasquadronpilot",
+              "upgrades": {
+                "talent": [
+                  "selfless"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "attack-shuttle",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "herasyndulla",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "turret": [
+                  "ioncannonturret"
+                ],
+                "title": [
+                  "phantom"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "sabinewren",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "turret": [
+                  "dorsalturret"
+                ],
+                "title": [
+                  "phantom"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "yt-2400-light-freighter",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 5,
+          "pilots": [
+            {
+              "id": "dashrendar",
+              "upgrades": {
+                "talent": [
+                  "experthandling",
+                  "trickshot"
+                ],
+                "illicit": [
+                  "riggedcargochute"
+                ],
+                "crew": [
+                  "perceptivecopilot"
+                ],
+                "title": [
+                  "outrider"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "leebo",
+              "upgrades": {
+                "illicit": [
+                  "inertialdampeners"
+                ],
+                "title": [
+                  "outrider"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "wildspacefringer",
+              "upgrades": {
+                "missile": [
+                  "concussionmissiles"
+                ],
+                "gunner": [
+                  "veteranturretgunner"
+                ],
+                "illicit": [
+                  "contrabandcybernetics"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "ut-60d-u-wing",
+      "expansion": "SWZ02",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "magvayarro",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "crew": [
+                  "sawgerrera"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ],
+                "configuration": [
+                  "pivotwing"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "sawgerrera",
+              "upgrades": {
+                "crew": [
+                  "magvayarro"
+                ],
+                "configuration": [
+                  "pivotwing"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "ut-60d-u-wing",
+      "expansion": "SWZ02",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "benthictwotubes",
+              "upgrades": {
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "configuration": [
+                  "pivotwing"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "partisanrenegade",
+              "upgrades": {
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "illicit": [
+                  "deadmansswitch"
+                ],
+                "configuration": [
+                  "pivotwing"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "t-65-x-wing",
+      "expansion": "SWZ02",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "kullbeesperado",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "astromech": [
+                  "r2astromech"
+                ],
+                "illicit": [
+                  "deadmansswitch"
+                ],
+                "modification": [
+                  "afterburners",
+                  "hullupgrade"
+                ],
+                "configuration": [
+                  "servomotorsfoils"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "edriotwotubes",
+              "upgrades": {
+                "talent": [
+                  "trickshot"
+                ],
+                "astromech": [
+                  "r4astromech"
+                ],
+                "illicit": [
+                  "deadmansswitch"
+                ],
+                "configuration": [
+                  "servomotorsfoils"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "t-65-x-wing",
+      "expansion": "SWZ02",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "leevantenza",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "astromech": [
+                  "r2astromech"
+                ],
+                "illicit": [
+                  "deadmansswitch"
+                ],
+                "modification": [
+                  "afterburners",
+                  "shieldupgrade"
+                ],
+                "configuration": [
+                  "servomotorsfoils"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "cavernangelszealot",
+              "upgrades": {
+                "astromech": [
+                  "r2astromech"
+                ],
+                "illicit": [
+                  "deadmansswitch"
+                ],
+                "configuration": [
+                  "servomotorsfoils"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "vcx-100-light-freighter + attack-shuttle",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 6,
+          "pilots": [
+            {
+              "id": "kananjarrus",
+              "upgrades": {
+                "crew": [
+                  "chopper-crew",
+                  "herasyndulla"
+                ],
+                "gunner": [
+                  "ezrabridger"
+                ],
+                "turret": [
+                  "ioncannonturret"
+                ],
+                "title": [
+                  "ghost"
+                ]
+              }
+            },
+            {
+              "id": "zeborrelios",
+              "upgrades": {
+                "title": [
+                  "phantom"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "vcx-100-light-freighter + attack-shuttle",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 6,
+          "pilots": [
+            {
+              "id": "herasyndulla-vcx100lightfreighter",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "crew": [
+                  "kananjarrus"
+                ],
+                "turret": [
+                  "dorsalturret"
+                ],
+                "title": [
+                  "ghost"
+                ]
+              }
+            },
+            {
+              "id": "ezrabridger",
+              "upgrades": {
+                "force-power": [
+                  "supernaturalreflexes"
+                ],
+                "turret": [
+                  "dorsalturret"
+                ],
+                "title": [
+                  "phantom"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "vcx-100-light-freighter + sheathipede-class-shuttle",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 6,
+          "pilots": [
+            {
+              "id": "chopper",
+              "upgrades": {
+                "crew": [
+                  "zeborrelios"
+                ],
+                "turret": [
+                  "ioncannonturret"
+                ],
+                "title": [
+                  "ghost"
+                ]
+              }
+            },
+            {
+              "id": "ap5",
+              "upgrades": {
+                "astromech": [
+                  "r4astromech"
+                ],
+                "title": [
+                  "phantom"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "rebel-alliance",
+      "ship": "vcx-100-light-freighter + sheathipede-class-shuttle",
+      "expansion": "SWZ06",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "lothalrebel",
+              "upgrades": {
+                "crew": [
+                  "landocalrissian"
+                ],
+                "turret": [
+                  "dorsalturret"
+                ],
+                "title": [
+                  "ghost"
+                ]
+              }
+            },
+            {
+              "id": "zeborrelios-sheathipedeclassshuttle",
+              "upgrades": {
+                "astromech": [
+                  "r5astromech"
+                ],
+                "title": [
+                  "phantom"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "customized-yt-1300-light-freighter + escape-craft",
+      "expansion": "SWZ04",
+      "builds": [
+        {
+          "threat": 5,
+          "pilots": [
+            {
+              "id": "hansolo",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "crew": [
+                  "chewbacca-crew"
+                ],
+                "gunner": [
+                  "agilegunner"
+                ],
+                "illicit": [
+                  "riggedcargochute"
+                ],
+                "modification": [
+                  "tacticalscrambler"
+                ],
+                "title": [
+                  "landosmillenniumfalcon"
+                ]
+              }
+            },
+            {
+              "id": "outerrimpioneer",
+              "upgrades": {
+                "crew": [
+                  "tobiasbeckett"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "landocalrissian",
+              "upgrades": {
+                "gunner": [
+                  "hansolo-gunner"
+                ],
+                "crew": [
+                  "qira"
+                ],
+                "title": [
+                  "landosmillenniumfalcon"
+                ]
+              }
+            },
+            {
+              "id": "l337-escapecraft"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "customized-yt-1300-light-freighter + escape-craft",
+      "expansion": "SWZ04",
+      "builds": [
+        {
+          "threat": 5,
+          "pilots": [
+            {
+              "id": "l337",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "gunner": [
+                  "hansolo-gunner"
+                ],
+                "crew": [
+                  "qira"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ],
+                "title": [
+                  "landosmillenniumfalcon"
+                ]
+              }
+            },
+            {
+              "id": "landocalrissian-escapecraft",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "freightercaptain",
+              "upgrades": {
+                "title": [
+                  "landosmillenniumfalcon"
+                ]
+              }
+            },
+            {
+              "id": "autopilotdrone",
+              "upgrades": {
+                "modification": [
+                  "afterburners"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "yv-666-light-freighter",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "moraloeval",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "missile": [
+                  "clustermissiles"
+                ],
+                "crew": [
+                  "lattsrazzi"
+                ],
+                "gunner": [
+                  "dengar"
+                ],
+                "illicit": [
+                  "contrabandcybernetics"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "lattsrazzi",
+              "upgrades": {
+                "crew": [
+                  "bobafett"
+                ],
+                "gunner": [
+                  "dengar",
+                  "bossk"
+                ],
+                "illicit": [
+                  "feedbackarray"
+                ],
+                "modification": [
+                  "staticdischargevanes"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "trandoshanslaver",
+              "upgrades": {
+                "crew": [
+                  "jabbathehutt"
+                ],
+                "gunner": [
+                  "hotshotgunner"
+                ],
+                "illicit": [
+                  "contrabandcybernetics",
+                  "riggedcargochute"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "yv-666-light-freighter + z-95-af4-headhunter",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "bossk",
+              "upgrades": {
+                "talent": [
+                  "marksmanship"
+                ],
+                "gunner": [
+                  "greedo"
+                ],
+                "title": [
+                  "houndstooth"
+                ]
+              }
+            },
+            {
+              "id": "nashtahpup"
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "trandoshanslaver",
+              "upgrades": {
+                "illicit": [
+                  "deadmansswitch"
+                ],
+                "title": [
+                  "houndstooth"
+                ]
+              }
+            },
+            {
+              "id": "nashtahpup",
+              "upgrades": {
+                "missile": [
+                  "protonrockets"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "firespray-class-patrol-craft",
+      "expansion": "SWZ16",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "bobafett",
+              "upgrades": {
+                "talent": [
+                  "lonewolf"
+                ],
+                "crew": [
+                  "perceptivecopilot"
+                ],
+                "illicit": [
+                  "inertialdampeners"
+                ],
+                "device": [
+                  "seismiccharges"
+                ],
+                "title": [
+                  "slavei"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "kathscarlet",
+              "upgrades": {
+                "title": [
+                  "marauder"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "krassistrelix",
+              "upgrades": {
+                "missile": [
+                  "concussionmissiles"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "firespray-class-patrol-craft",
+      "expansion": "SWZ16",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "emonazzameen",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "crew": [
+                  "perceptivecopilot"
+                ],
+                "illicit": [
+                  "inertialdampeners"
+                ],
+                "device": [
+                  "seismiccharges",
+                  "proximitymines"
+                ],
+                "title": [
+                  "andrasta"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "koshkafrost",
+              "upgrades": {
+                "crew": [
+                  "perceptivecopilot"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "bountyhunter",
+              "upgrades": {
+                "crew": [
+                  "perceptivecopilot"
+                ],
+                "illicit": [
+                  "inertialdampeners"
+                ],
+                "device": [
+                  "seismiccharges"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "fang-fighter",
+      "expansion": "SWZ17",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "fennrau",
+              "upgrades": {
+                "talent": [
+                  "daredevil"
+                ],
+                "modification": [
+                  "afterburners",
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "kadsolus",
+              "upgrades": {
+                "talent": [
+                  "fearless"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "zealousrecruit",
+              "upgrades": {
+                "torpedo": [
+                  "protontorpedoes"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "fang-fighter",
+      "expansion": "SWZ17",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "joyrekkoff",
+              "upgrades": {
+                "talent": [
+                  "predator"
+                ],
+                "torpedo": [
+                  "iontorpedoes"
+                ],
+                "modification": [
+                  "afterburners",
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "oldteroch"
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "skullsquadronpilot",
+              "upgrades": {
+                "talent": [
+                  "fearless"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "lancer-class-pursuit-craft",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "ketsuonyo",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "illicit": [
+                  "riggedcargochute"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ],
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "sabinewren-lancerclasspursuitcraft",
+              "upgrades": {
+                "talent": [
+                  "fearless"
+                ],
+                "crew": [
+                  "ketsuonyo"
+                ],
+                "title": [
+                  "shadowcaster"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "lancer-class-pursuit-craft",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 4,
+          "pilots": [
+            {
+              "id": "asajjventress",
+              "upgrades": {
+                "force-power": [
+                  "sense"
+                ],
+                "gunner": [
+                  "veteranturretgunner"
+                ],
+                "illicit": [
+                  "inertialdampeners",
+                  "deadmansswitch"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "shadowporthunter",
+              "upgrades": {
+                "crew": [
+                  "maul"
+                ],
+                "illicit": [
+                  "contrabandcybernetics"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "kihraxz-fighter",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "talonbanecobra",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "missile": [
+                  "clustermissiles"
+                ],
+                "illicit": [
+                  "inertialdampeners"
+                ],
+                "modification": [
+                  "afterburners",
+                  "electronicbaffle",
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "viktorhel",
+              "upgrades": {
+                "talent": [
+                  "crackshot"
+                ],
+                "modification": [
+                  "stealthdevice"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "kihraxz-fighter",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "graz",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "missile": [
+                  "concussionmissiles"
+                ],
+                "illicit": [
+                  "contrabandcybernetics"
+                ],
+                "modification": [
+                  "afterburners"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "blacksunace",
+              "upgrades": {
+                "talent": [
+                  "predator"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "kihraxz-fighter",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "captainjostero",
+              "upgrades": {
+                "missile": [
+                  "ionmissiles"
+                ],
+                "modification": [
+                  "munitionsfailsafe"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "cartelmarauder",
+              "upgrades": {
+                "missile": [
+                  "concussionmissiles"
+                ],
+                "modification": [
+                  "munitionsfailsafe",
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "btl-a4-y-wing",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "kavil",
+              "upgrades": {
+                "talent": [
+                  "experthandling"
+                ],
+                "turret": [
+                  "dorsalturret"
+                ],
+                "astromech": [
+                  "genius"
+                ],
+                "device": [
+                  "protonbombs"
+                ],
+                "modification": [
+                  "afterburners"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "hiredgun",
+              "upgrades": {
+                "talent": [
+                  "crackshot"
+                ],
+                "turret": [
+                  "ioncannonturret"
+                ],
+                "astromech": [
+                  "r3astromech"
+                ],
+                "device": [
+                  "connernets"
+                ],
+                "gunner": [
+                  "veteranturretgunner"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "btl-a4-y-wing",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "drearenthal",
+              "upgrades": {
+                "talent": [
+                  "experthandling"
+                ],
+                "turret": [
+                  "ioncannonturret"
+                ],
+                "gunner": [
+                  "hotshotgunner"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "crymorahgoon",
+              "upgrades": {
+                "torpedo": [
+                  "iontorpedoes"
+                ],
+                "turret": [
+                  "dorsalturret"
+                ],
+                "astromech": [
+                  "r3astromech"
+                ],
+                "illicit": [
+                  "inertialdampeners"
+                ],
+                "device": [
+                  "proximitymines"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "hwk-290-light-freighter",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "dacebonearm",
+              "upgrades": {
+                "modification": [
+                  "staticdischargevanes"
+                ],
+                "illicit": [
+                  "feedbackarray"
+                ],
+                "device": [
+                  "connernets"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "palobgodalhi",
+              "upgrades": {
+                "talent": [
+                  "juke",
+                  "debrisgambit"
+                ],
+                "modification": [
+                  "stealthdevice"
+                ],
+                "illicit": [
+                  "contrabandcybernetics"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "hwk-290-light-freighter",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "torkilmux",
+              "upgrades": {
+                "illicit": [
+                  "cloakingdevice"
+                ],
+                "device": [
+                  "proximitymines"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "spicerunner",
+              "upgrades": {
+                "modification": [
+                  "electronicbaffle"
+                ],
+                "illicit": [
+                  "deadmansswitch"
+                ],
+                "device": [
+                  "protonbombs"
+                ]
+              }
+            },
+            {
+              "id": "spicerunner",
+              "upgrades": {
+                "modification": [
+                  "electronicbaffle"
+                ],
+                "illicit": [
+                  "deadmansswitch"
+                ],
+                "device": [
+                  "protonbombs"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "quadrijet-transfer-spacetug",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "constablezuvio",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "illicit": [
+                  "riggedcargochute"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ],
+                "device": [
+                  "connernets"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "jakkugunrunner",
+              "upgrades": {
+                "modification": [
+                  "electronicbaffle"
+                ],
+                "crew": [
+                  "novicetechnician"
+                ],
+                "device": [
+                  "proximitymines"
+                ]
+              }
+            },
+            {
+              "id": "jakkugunrunner",
+              "upgrades": {
+                "modification": [
+                  "electronicbaffle"
+                ],
+                "crew": [
+                  "novicetechnician"
+                ],
+                "device": [
+                  "proximitymines"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "quadrijet-transfer-spacetug",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "sarcoplank",
+              "upgrades": {
+                "crew": [
+                  "unkarplutt"
+                ],
+                "illicit": [
+                  "feedbackarray"
+                ],
+                "modification": [
+                  "shieldupgrade",
+                  "hullupgrade"
+                ],
+                "device": [
+                  "seismiccharges"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "unkarplutt",
+              "upgrades": {
+                "crew": [
+                  "novicetechnician"
+                ],
+                "illicit": [
+                  "contrabandcybernetics"
+                ],
+                "modification": [
+                  "afterburners"
+                ],
+                "device": [
+                  "proximitymines"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "starviper-class-attack-platform",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "princexizor",
+              "upgrades": {
+                "talent": [
+                  "predator"
+                ],
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ],
+                "title": [
+                  "virago"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "blacksunenforcer",
+              "upgrades": {
+                "sensor": [
+                  "collisiondetector"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "starviper-class-attack-platform",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "guri",
+              "upgrades": {
+                "talent": [
+                  "daredevil"
+                ],
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "torpedo": [
+                  "advprotontorpedoes"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "dalanoberos-starviperclassattackplatform",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "illicit": [
+                  "contrabandcybernetics"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "blacksunassassin",
+              "upgrades": {
+                "talent": [
+                  "fearless"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "m3-a-interceptor",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "serissu",
+              "upgrades": {
+                "modification": [
+                  "stealthdevice"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "genesisred",
+              "upgrades": {
+                "talent": [
+                  "juke"
+                ],
+                "missile": [
+                  "concussionmissiles"
+                ],
+                "modification": [
+                  "munitionsfailsafe"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "quinnjast",
+              "upgrades": {
+                "talent": [
+                  "crackshot"
+                ],
+                "torpedo": [
+                  "advprotontorpedoes"
+                ],
+                "modification": [
+                  "afterburners"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "m3-a-interceptor",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "laetinashera",
+              "upgrades": {
+                "talent": [
+                  "juke"
+                ],
+                "missile": [
+                  "clustermissiles"
+                ],
+                "modification": [
+                  "munitionsfailsafe",
+                  "stealthdevice"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "inaldra",
+              "upgrades": {
+                "cannon": [
+                  "ioncannon"
+                ],
+                "modification": [
+                  "hullupgrade",
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "tansariipointveteran",
+              "upgrades": {
+                "talent": [
+                  "crackshot"
+                ],
+                "cannon": [
+                  "heavylasercannon"
+                ]
+              }
+            },
+            {
+              "id": "tansariipointveteran",
+              "upgrades": {
+                "talent": [
+                  "crackshot"
+                ],
+                "cannon": [
+                  "heavylasercannon"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "m3-a-interceptor",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "sunnybounder",
+              "upgrades": {
+                "talent": [
+                  "predator"
+                ],
+                "missile": [
+                  "clustermissiles"
+                ],
+                "modification": [
+                  "afterburners"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "cartelspacer",
+              "upgrades": {
+                "torpedo": [
+                  "iontorpedoes"
+                ],
+                "modification": [
+                  "munitionsfailsafe"
+                ]
+              }
+            },
+            {
+              "id": "cartelspacer",
+              "upgrades": {
+                "torpedo": [
+                  "iontorpedoes"
+                ],
+                "modification": [
+                  "munitionsfailsafe"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "jumpmaster-5000",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "teltrevura",
+              "upgrades": {
+                "talent": [
+                  "experthandling"
+                ],
+                "crew": [
+                  "gnkgonkdroid"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "illicit": [
+                  "deadmansswitch"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "contractedscout",
+              "upgrades": {
+                "torpedo": [
+                  "iontorpedoes"
+                ],
+                "illicit": [
+                  "inertialdampeners"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "jumpmaster-5000",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "dengar",
+              "upgrades": {
+                "talent": [
+                  "experthandling"
+                ],
+                "astromech": [
+                  "r4astromech"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "illicit": [
+                  "contrabandcybernetics"
+                ],
+                "title": [
+                  "punishingone"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "manaroo",
+              "upgrades": {
+                "talent": [
+                  "intimidation"
+                ],
+                "crew": [
+                  "perceptivecopilot"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "modification": [
+                  "staticdischargevanes"
+                ],
+                "illicit": [
+                  "feedbackarray"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "z-95-af4-headhunter",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "ndrusuhlak",
+              "upgrades": {
+                "talent": [
+                  "lonewolf"
+                ],
+                "missile": [
+                  "homingmissiles"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ],
+                "illicit": [
+                  "cloakingdevice"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "blacksunsoldier",
+              "upgrades": {
+                "talent": [
+                  "experthandling"
+                ],
+                "missile": [
+                  "concussionmissiles"
+                ],
+                "illicit": [
+                  "deadmansswitch"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            },
+            {
+              "id": "blacksunsoldier",
+              "upgrades": {
+                "talent": [
+                  "experthandling"
+                ],
+                "missile": [
+                  "concussionmissiles"
+                ],
+                "illicit": [
+                  "deadmansswitch"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "z-95-af4-headhunter",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "kaatoleeachos",
+              "upgrades": {
+                "talent": [
+                  "experthandling"
+                ],
+                "missile": [
+                  "clustermissiles"
+                ],
+                "illicit": [
+                  "contrabandcybernetics"
+                ],
+                "modification": [
+                  "afterburners"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 1,
+          "pilots": [
+            {
+              "id": "binayrepirate"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "g-1a-starfighter",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "4lom",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "crew": [
+                  "000",
+                  "zuckuss"
+                ],
+                "gunner": [
+                  "bt1"
+                ],
+                "title": [
+                  "misthunter"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "zuckuss",
+              "upgrades": {
+                "talent": [
+                  "lonewolf"
+                ],
+                "crew": [
+                  "4lom"
+                ],
+                "cannon": [
+                  "tractorbeam"
+                ],
+                "title": [
+                  "misthunter"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "gandfindsman",
+              "upgrades": {
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "crew": [
+                  "freelanceslicer"
+                ],
+                "illicit": [
+                  "deadmansswitch"
+                ],
+                "modification": [
+                  "electronicbaffle"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "m12-l-kimogila-fighter",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "toranikulda",
+              "upgrades": {
+                "talent": [
+                  "saturationsalvo"
+                ],
+                "torpedo": [
+                  "protontorpedoes"
+                ],
+                "missile": [
+                  "clustermissiles"
+                ],
+                "astromech": [
+                  "r4astromech"
+                ],
+                "illicit": [
+                  "inertialdampeners"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "dalanoberos",
+              "upgrades": {
+                "talent": [
+                  "experthandling"
+                ],
+                "astromech": [
+                  "r5tk"
+                ],
+                "illicit": [
+                  "inertialdampeners"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "cartelexecutioner",
+              "upgrades": {
+                "talent": [
+                  "crackshot"
+                ],
+                "astromech": [
+                  "r5p8"
+                ],
+                "illicit": [
+                  "contrabandcybernetics"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "scurrg-h-6-bomber",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "captainnym",
+              "upgrades": {
+                "talent": [
+                  "squadleader"
+                ],
+                "sensor": [
+                  "trajectorysimulator"
+                ],
+                "astromech": [
+                  "r4astromech"
+                ],
+                "device": [
+                  "bombletgenerator"
+                ],
+                "title": [
+                  "havoc"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 3,
+          "pilots": [
+            {
+              "id": "solsixxa",
+              "upgrades": {
+                "turret": [
+                  "ioncannonturret"
+                ],
+                "gunner": [
+                  "skilledbombardier"
+                ],
+                "device": [
+                  "connernets",
+                  "proximitymines"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "lokrevenant",
+              "upgrades": {
+                "turret": [
+                  "dorsalturret"
+                ],
+                "device": [
+                  "bombletgenerator"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "aggressor-assault-fighter + aggressor-assault-fighter",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 6,
+          "pilots": [
+            {
+              "id": "ig88a",
+              "upgrades": {
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "title": [
+                  "ig2000"
+                ]
+              }
+            },
+            {
+              "id": "ig88d",
+              "upgrades": {
+                "sensor": [
+                  "advancedsensors"
+                ],
+                "title": [
+                  "ig2000"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "aggressor-assault-fighter + aggressor-assault-fighter",
+      "expansion": "SWZ08",
+      "builds": [
+        {
+          "threat": 6,
+          "pilots": [
+            {
+              "id": "ig88b",
+              "upgrades": {
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "cannon": [
+                  "ioncannon"
+                ],
+                "title": [
+                  "ig2000"
+                ]
+              }
+            },
+            {
+              "id": "ig88c",
+              "upgrades": {
+                "sensor": [
+                  "firecontrolsystem"
+                ],
+                "cannon": [
+                  "ioncannon"
+                ],
+                "title": [
+                  "ig2000"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "modified-tie-ln-fighter",
+      "expansion": "SWZ23",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "ahhav",
+              "upgrades": {
+                "talent": [
+                  "elusive"
+                ],
+                "modification": [
+                  "afterburners",
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "miningguildsurveyor",
+              "upgrades": {
+                "talent": [
+                  "swarmtactics",
+                  "trickshot"
+                ],
+                "modification": [
+                  "staticdischargevanes",
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 1,
+          "pilots": [
+            {
+              "id": "overseeryushyn"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "faction": "scum-and-villainy",
+      "ship": "modified-tie-ln-fighter",
+      "expansion": "SWZ23",
+      "builds": [
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "captainseevor",
+              "upgrades": {
+                "talent": [
+                  "outmaneuver"
+                ],
+                "modification": [
+                  "shieldupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 2,
+          "pilots": [
+            {
+              "id": "foremanproach",
+              "upgrades": {
+                "talent": [
+                  "predator",
+                  "swarmtactics"
+                ],
+                "modification": [
+                  "hullupgrade"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "threat": 1,
+          "pilots": [
+            {
+              "id": "miningguildsentry"
+            }
+          ]
+        }
+      ]
+    }
+  
+]
