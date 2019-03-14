@@ -1,0 +1,225 @@
+@font-face {
+    font-family: "Eurostile";
+    src: url('C:\\Users\\s278729\\Desktop\\X-Wing\\WebBuilder\\eurostile.TTF')
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.faction_background{
+    position: absolute;
+    left: 106px;
+    height: 100%;
+    width: 112px;
+    background-color: navy;
+}
+
+.title_section{
+    display: -webkit-flex;
+    width: 100%;
+    height: 152px;
+}
+
+.faction_symbol{
+    width: 112px;
+    margin-left: 30px;
+    font-size: 64px;
+    color: white;
+}
+
+.ship_name{
+    font-size: 36px;
+    height: 50%;
+    color: white;
+    font-variant: small-caps;
+}
+
+.set_expansion{
+    font-size: 18px;
+}
+
+.section{
+    text-align: center;
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+
+.ship_symbol_background{
+    position: absolute;
+    right: 106px;
+    height: 100%;
+    width: 112px;
+    background-color: white;
+}
+
+.ship_symbol{
+    position: absolute;
+    bottom: 0;
+    right: 34px;
+    width: 112px;
+    font-size: 72px;
+    color: black;
+}
+
+.scum-and-villainy{
+    background-color: #356a35; 
+    color: #fff;
+}
+
+.rebel-alliance{
+    background-color: #fff;
+    color: #F44336;
+}
+
+.galactic-empire{
+    background-color: #2a3e92;
+    color: #fff;
+}
+
+.first-order{
+    background-color: #3a3a3b;
+    color:#d22027;
+}
+
+.resistance{
+    background-color: #3a3a3b;
+    color: #dc671d;
+}
+
+.bleed{
+    float: left;
+    position: relative;
+    width: 822px;
+    height: 1122px;
+    background-color: #263238;
+}
+.card{
+    position: relative;
+    left: 36px;
+    top: 36px;
+    font-family: 'Eurostile';
+    width: 750px;
+    height: 1050px;
+    border-radius: 24px;
+}
+
+.card-debug{
+    position: relative;
+    left: 36px;
+    top: 36px;
+    font-family: 'Eurostile';
+    width: 746px;
+    height: 1046px;
+    border-radius: 24px;
+    border: 2px black solid;
+}
+
+.safe{
+    position: relative;
+    margin: 36px;
+    width: 678px;
+    height: 978px;
+    border-radius: 24px;
+}
+
+.safe-debug{
+    position: relative;
+    margin: 36px;
+    border-radius: 24px;
+    width: 674px;
+    height: 974px;
+    border: 2px red dashed;
+}
+
+.faction{
+    width: 112px;
+    height: 155px;
+    float: left;
+    margin-left: 36px;
+}
+
+.faction i{
+    display: inline-block;
+    font-size: 96px;
+}
+
+.ship-name{
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 24px;
+    width: auto;
+    color: #FFF;
+}
+
+.expansion{
+    font-size: 24px;
+}
+
+.ship-symbol{
+    text-align: center;
+    float: right;
+    margin-right: 36px;
+    width: 112px;
+    height: 155px;
+}
+
+.ship-symbol i{
+    text-align: center;
+    font-size: 112px;
+    color: #FFF;
+}
+
+.main{
+    visibility: hidden;
+    position: relative;
+    background-color: #37474f;
+    left: 2.5%;
+    width: 95%;
+    height: 82.5%;
+    text-align: center;
+}
+
+table{
+    vertical-align: top;
+    display: inline-block;
+}
+
+
+table .upgrade{
+    font-size: 24px;
+    text-align:left;
+    width: 45%;
+    color: #FFF;
+}
+
+table tr{
+    text-align: center;
+    width: 696px;
+}
+
+table .symbol{
+    font-size: 18px;
+    width: 5%;
+    color: #FFF;
+}
+
+table canvas {
+    width: 558px;
+}
+
+table .pilot-name{
+    font-variant-caps: all-small-caps;
+    text-align: center;
+    font-size: 36px;
+    color: #FFF;
+}
+
+
+
+
+
+
+
